@@ -55,17 +55,17 @@ The platform connects plant lovers, plant stores, and agricultural experts throu
 **Year:** 2026
 ## 📸 Project Screenshots
 
-### Home Page
+### AI Plant Analysis
 ![](IMG_5834.jpeg)
 
-### Products Page
+### Products
 ![](IMG_5895.jpeg)
 
-### Expert Dashboard
+### Agricultural Experts
 ![](IMG_5896.jpeg)
 
-### Checkout Page
+### Home Page
 ![](IMG_5899.jpeg)
 
-### User Interface
+### Database
 ![](872a5206-c5e4-4bbc-a981-a2563e3db062.jpeg) 
