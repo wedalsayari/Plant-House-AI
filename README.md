@@ -53,3 +53,19 @@ The platform connects plant lovers, plant stores, and agricultural experts throu
 **Major:** Information Systems
 
 **Year:** 2026
+## 📸 Project Screenshots
+
+### Home Page
+![](IMG_5834.jpeg)
+
+### Products Page
+![](IMG_5895.jpeg)
+
+### Expert Dashboard
+![](IMG_5896.jpeg)
+
+### Checkout Page
+![](IMG_5899.jpeg)
+
+### User Interface
+![](872a5206-c5e4-4bbc-a981-a2563e3db062.jpeg) 
