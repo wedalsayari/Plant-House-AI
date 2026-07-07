@@ -69,3 +69,10 @@ The platform connects plant lovers, plant stores, and agricultural experts throu
 
 ### Database
 ![](872a5206-c5e4-4bbc-a981-a2563e3db062.jpeg) 
+## 📦 Source Code
+
+The complete source code of this graduation project is available as a compressed archive in this repository.
+
+**Current version:** Uploaded as a `.rar` archive.
+
+> **Note:** The source code is temporarily provided as a compressed archive. Once the original project files are available, the repository will be updated with the extracted source code for easier browsing.
